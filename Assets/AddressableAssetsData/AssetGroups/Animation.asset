@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Animation
+  m_EditorClassIdentifier: 
+  m_GroupName: Animation
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 110dc6b0090aa7a4a85838c089d6e525
+  m_SerializeEntries:
+  - m_GUID: 08a961af74bb6914987b7ee71a119cf6
+    m_Address: Assets/Resource/Animation/Idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2edd69507ec23e2419f8f36d7ebf1ee2
+    m_Address: Crawl
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a245088341da4b409079994ac2e708f
+    m_Address: Assets/Resource/Animation/trunRight.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f026ea14c871334c93f3f58f1366f91
+    m_Address: Assets/Resource/Animation/trueLeft.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9265e72e0aef6304585b0aa9f888c7ad
+    m_Address: Assets/Res/Animator/Idle.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af23294eca8455640b4beab6f040298e
+    m_Address: Assets/Res/Animator/Eat.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7a3599867b382c41b6f7531a3dbd59b
+    m_Address: Assets/ArtRes/Toon_Zombies_extended/animation/Generic/TZ_death_A_idle.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc81a7fc67af2374180ebf3130272b18
+    m_Address: Assets/ArtRes/Toon_Zombies_extended/animation/Generic/TZ_crouch_eating.FBX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d896671bb727e4b4dbf08cb40dee99f0
+    m_Address: Calm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ddc685214a54c8645908761f908f9f39
+    m_Address: Broken
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9843b314108d1c4dae4bcde82c06645
+    m_Address: Assets/Resource/Animation/_Cinematic_camera1.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f19582984d6759546b4823ff1c62887b
+    m_Address: Aggressive
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dc36f28637685fd46886bbe796acdb9b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6c856b91b9d66d643bdc054b2006f8ab, type: 2}
+    - {fileID: 11400000, guid: 10e84e35f951acf4d9facf1dfb8b6012, type: 2}

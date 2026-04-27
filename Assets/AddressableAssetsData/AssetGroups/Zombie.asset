@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Zombie
+  m_EditorClassIdentifier: 
+  m_GroupName: Zombie
+  m_Data:
+    m_SerializedData: []
+  m_GUID: cb88b17a9e3cdbb42871a11b6502e5c4
+  m_SerializeEntries:
+  - m_GUID: 0d92cadd7e7d6ec4eb8c3e12b322e732
+    m_Address: Zombie1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f21ac3a6355ff1e49add971d6c3042ff
+    m_Address: Zombie3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc0d8c529e4a92f498b3abd6c119419b
+    m_Address: Zombie2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dc36f28637685fd46886bbe796acdb9b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b8fd42e2430c22b4abcb20ab503a6542, type: 2}
+    - {fileID: 11400000, guid: 851eb8fda4b70d84d846fe76df95de46, type: 2}

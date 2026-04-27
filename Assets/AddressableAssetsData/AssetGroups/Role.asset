@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Role
+  m_EditorClassIdentifier: 
+  m_GroupName: Role
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 94f6a6916fbbedb459d63d109cbf81e6
+  m_SerializeEntries:
+  - m_GUID: 2a0383480ad2f1c4a9819e32ebc5ae31
+    m_Address: sniper
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35c486c3961f4a546b6a11015c2bc57d
+    m_Address: officer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40dc23d8851423e43acb7f06378fea40
+    m_Address: engineer
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b9acc62de03f8943b708af0cdddcdd2
+    m_Address: infantry
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6984fa8cfa340e4db04c89358276df5
+    m_Address: gunner
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dc36f28637685fd46886bbe796acdb9b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f8e720774f1ed8d4ba48f6cd5fa4cc1d, type: 2}
+    - {fileID: 11400000, guid: 1c48507199a8ef348addac7e00c24774, type: 2}
