@@ -1,0 +1,64 @@
+{
+  "zombies":[
+    {
+      "id": 1,
+      "res": "Zombie1",
+      "animator": "Aggressive",
+      "atk": 5,
+      "moveSpeed": 1,
+      "roundSpeed": 100,
+      "hp": 10,
+      "atkOffst": 0.8
+    },
+    {
+      "id": 2,
+      "res": "Zombie2",
+      "animator": "Broken",
+      "atk": 5,
+      "moveSpeed": 2,
+      "roundSpeed": 50,
+      "hp": 10,
+      "atkOffst": 1.2
+    },
+    {
+      "id": 3,
+      "res": "Zombie3",
+      "animator": "Calm",
+      "atk": 5,
+      "moveSpeed": 1,
+      "roundSpeed": 60,
+      "hp": 10,
+      "atkOffst": 1
+    },
+    {
+      "id": 4,
+      "res": "Zombie1",
+      "animator": "Crawl",
+      "atk": 5,
+      "moveSpeed": 3,
+      "roundSpeed": 150,
+      "hp": 10,
+      "atkOffst": 0.5
+    },
+    {
+      "id": 5,
+      "res": "Zombie2",
+      "animator": "Aggressive",
+      "atk": 5,
+      "moveSpeed": 2,
+      "roundSpeed": 100,
+      "hp": 10,
+      "atkOffst": 0.8
+    },
+    {
+      "id": 6,
+      "res": "Zombie3",
+      "animator": "Broken",
+      "atk": 5,
+      "moveSpeed": 2,
+      "roundSpeed": 100,
+      "hp": 10,
+      "atkOffst": 0.8
+    }
+  ]
+}

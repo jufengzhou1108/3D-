@@ -1,0 +1,54 @@
+{
+  "roles":[
+    {
+      "id": 1,
+      "name": "engineer",
+      "res": "Resouece/Role/engineer",
+      "atk": 2,
+      "tips": "最帅的男人",
+      "lockMoney": 0,
+      "type": 1,
+      "effect": "Resource/Effects/engineer"
+    },
+    {
+      "id": 2,
+      "name": "gunner",
+      "res": "Resouece/Role/gunner",
+      "atk": 3,
+      "tips": "最凶猛的男人",
+      "lockMoney": 0,
+      "type": 2,
+      "effect": "Resource/Effects/gunner"
+    },
+    {
+      "id": 3,
+      "name": "infantry",
+      "res": "Resouece/Role/infantry",
+      "atk": 4,
+      "tips": "最大的男人",
+      "lockMoney": 200,
+      "type": 2,
+      "effect": "Resource/Effects/infantry"
+    },
+    {
+      "id": 4,
+      "name": "officer",
+      "res": "Resouece/Role/officer",
+      "atk": 5,
+      "tips": "最牛的男人",
+      "lockMoney": 300,
+      "type": 2,
+      "effect": "Resource/Effects/officer"
+    },
+    {
+      "id": 5,
+      "name": "sniper",
+      "res": "Resouece/Role/sniper",
+      "atk": 6,
+      "tips": "最阴的男人",
+      "lockMoney": 400,
+      "type": 2,
+      "effect": "Resource/Effects/sniper"
+    }
+  ]
+}
